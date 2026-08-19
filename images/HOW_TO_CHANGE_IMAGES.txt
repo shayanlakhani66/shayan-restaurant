@@ -1,0 +1,67 @@
+========================================================================
+   SHAYAN RESTAURANT - HOW TO CHANGE FOOD IMAGES IN YOUR MENU
+========================================================================
+
+You can easily replace any image on your website simply by placing your own
+image file inside this "images" folder with the EXACT same filename listed below!
+
+Tip: For best results, use JPG or PNG format with good lighting.
+
+------------------------------------------------------------------------
+📸 HERO / MAIN BANNER IMAGE
+------------------------------------------------------------------------
+- hero-banner.jpg               -> Top Hero Section Main Grill Image
+
+------------------------------------------------------------------------
+🎁 SPECIAL DEALS & COMBOS
+------------------------------------------------------------------------
+- deal-mega-feast.jpg           -> Shayan Mega Family Feast Deal
+- deal-burger-crunch.jpg        -> Burger Duo Crunch Pack Deal
+- deal-pizza-lover.jpg          -> Pizza Lover Duo Sensation Deal
+- deal-royal-bbq.jpg            -> Royal Charcoal BBQ Feast Deal
+
+------------------------------------------------------------------------
+🍔 5 GOURMET BURGERS
+------------------------------------------------------------------------
+- burger-beef-smash.jpg         -> 1. Classic Beef Smash Burger
+- burger-zinger-supreme.jpg     -> 2. Crunchy Zinger Supreme Burger
+- burger-bbq-bacon.jpg          -> 3. Smoky BBQ Beef Bacon Burger
+- burger-mushroom-swiss.jpg     -> 4. Mushroom Swiss Melt Burger
+- burger-jalapeno-stuffed.jpg   -> 5. Fiery Jalapeno Stuffed Burger
+
+------------------------------------------------------------------------
+🍕 7 HANDCRAFTED PIZZAS
+------------------------------------------------------------------------
+- pizza-shayan-crown.jpg        -> 1. Shayan Special Crown Pizza
+- pizza-margherita.jpg          -> 2. Classic Margherita Delight Pizza
+- pizza-chicken-fajita.jpg      -> 3. Chicken Fajita Sensation Pizza
+- pizza-chicken-tikka.jpg       -> 4. Spicy Chicken Tikka Passion Pizza
+- pizza-beef-pepperoni.jpg      -> 5. Smoky Beef Pepperoni Overload Pizza
+- pizza-four-cheese.jpg         -> 6. Four Cheese Creamy Italian Pizza
+- pizza-bbq-ranch.jpg           -> 7. BBQ Ranch Fusion Pizza
+
+------------------------------------------------------------------------
+🔥 8 AUTHENTIC CHARCOAL BBQ ITEMS
+------------------------------------------------------------------------
+- bbq-chicken-tikka.jpg         -> 1. Chicken Tikka (Breast / Leg)
+- bbq-malai-boti.jpg            -> 2. Mouthwatering Malai Boti (8 Pcs)
+- bbq-bihari-kabab.jpg          -> 3. Beef Bihari Kabab Boti
+- bbq-seekh-kabab.jpg           -> 4. Signature Seekh Kabab (4 Pcs)
+- bbq-reshmi-kabab.jpg          -> 5. Reshmi Chicken Kabab (4 Pcs)
+- bbq-mutton-chops.jpg          -> 6. Charcoal BBQ Chops (4 Pcs)
+- bbq-fish-tikka.jpg            -> 7. Fish Tikka Delight (6 Pcs)
+- bbq-grand-platter.jpg         -> 8. Shayan Grand BBQ Platter
+
+------------------------------------------------------------------------
+🍟 SIDES & DRINKS
+------------------------------------------------------------------------
+- side-pizza-fries.jpg          -> Loaded Cheesy Pizza Fries
+- side-garlic-bread.jpg         -> Garlic Bread with Melted Cheese
+- side-mint-margarita.jpg       -> Chilled Mint Margarita
+- side-soft-drink.jpg           -> Chilled Soft Drink (1.5 Liter)
+
+========================================================================
+HOW IT WORKS:
+Whenever you drop an image with one of these names into this "images"
+folder, your website will automatically update and display your new photo!
+========================================================================
